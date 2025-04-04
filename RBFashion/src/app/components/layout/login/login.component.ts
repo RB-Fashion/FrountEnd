@@ -15,7 +15,7 @@ export class LoginComponent {
 
   onLogin() {
     const loginData = {
-      users: this.email,
+      userName: this.email,
       password: this.password
     };
 
