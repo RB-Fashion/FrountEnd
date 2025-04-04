@@ -1,4 +1,4 @@
-import { environment } from './../environments/environment.staging';
+import { environment } from '../../environments/environment.staging';
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
